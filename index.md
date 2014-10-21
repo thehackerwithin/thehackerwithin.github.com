@@ -15,4 +15,8 @@ Current chapters:
 
   * [U. California-Berkeley](http://thehackerwithin.github.io/berkeley) (USA)
   * [U. Wisconsin-Madison](http://thehackerwithin.github.io/wisconsin) (USA)
+
+Nascent chapters:
   * [U. Melbourne](http://thehackerwithin.github.io/melbourne) (Australia)
+  * [Yale] (http://thehackerwithin.github.io/yale) (USA)
+  * [MSU] (http://thehackerwithin.github.io/msu) (USA)
