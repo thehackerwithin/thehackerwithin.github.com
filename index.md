@@ -44,7 +44,6 @@ In the past, at Wisconsin, we hosted events and bootcamps of many flavors.
 
 We have even been invited to host workshops elsewhere.
 
-![THW@ANS](./images/thw_ans.jpg "THW@ANS")
 
 ![THW@MSU](./images/thw_msu.png "THW@MSU")
 
