@@ -21,3 +21,20 @@ Nascent chapters:
   * [U. Melbourne](http://thehackerwithin.github.io/melbourne) (Australia)
   * [Yale] (http://thehackerwithin.github.io/yale) (USA)
   * [Michigan State] (http://thehackerwithin.github.io/msu) (USA)
+
+
+
+----
+
+
+In the past, at Wisconsin, we hosted events and bootcamps of many flavors. 
+
+
+
+![John D. Hunter Lecture](./images/hunter.jpg "John D. Hunter Flyer")
+
+![The Hacker Within Python bootcamp](./images/pybc.jpg "Python Bootcamp")
+
+![The Hacker Within C++ Bootcamp](./images/cpp_boot1.jpg "C++ bootcamp")
+
+![The Hacker Within SWC Bootcamp](./images/sc_boot.jpg "Software Carpentry bootcamp")
