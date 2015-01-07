@@ -3,7 +3,7 @@ layout: default
 title: The Hacker Within
 ---
 
-The Hacker Within, began as a student organization at the University of
+The Hacker Within began as a student organization at the University of
 Wisconsin-Madison, and is now reborn as a collection of such chapters around
 the world.
 
