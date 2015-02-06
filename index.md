@@ -18,6 +18,7 @@ Current chapters:
 
 Nascent chapters:
 
+  * [Swinburne](http://thehackerwithin.github.io/swinburne) (Australia)
   * [U. Melbourne](http://thehackerwithin.github.io/melbourne) (Australia)
   * [Yale] (http://thehackerwithin.github.io/yale) (USA)
   * [Michigan State] (http://thehackerwithin.github.io/msu) (USA)
