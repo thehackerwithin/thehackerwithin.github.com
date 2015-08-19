@@ -13,9 +13,10 @@ using computing to accomplish their work.
 
 Current chapters:
 
-  * [U. California-Berkeley](http://thehackerwithin.github.io/berkeley) (USA)
+  * [U. California, Berkeley](http://thehackerwithin.github.io/berkeley) (USA)
   * [U. Wisconsin-Madison](http://thehackerwithin.github.io/wisconsin) (USA)
   * [Swinburne](http://thehackerwithin.github.io/swinburne) (Australia)
+  * [U. of Illinois, Urbana-Champaign](http://thehackerwithin.github.io/illinois) (USA)
 
 Nascent chapters:
 
