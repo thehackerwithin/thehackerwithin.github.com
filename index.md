@@ -20,6 +20,7 @@ Current chapters:
 
 Nascent chapters:
 
+  * [U. California, Davis](http://thehackerwithin.github.io/davis)
   * [U. Melbourne](http://thehackerwithin.github.io/melbourne) (Australia)
   * [Yale] (http://thehackerwithin.github.io/yale) (USA)
   * [Michigan State] (http://thehackerwithin.github.io/msu) (USA)
