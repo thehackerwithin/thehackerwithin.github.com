@@ -17,6 +17,8 @@ Current chapters:
   * [U. Wisconsin-Madison](http://thehackerwithin.github.io/wisconsin) (USA)
   * [Swinburne](http://thehackerwithin.github.io/swinburne) (Australia)
   * [U. of Illinois, Urbana-Champaign](http://thehackerwithin.github.io/illinois) (USA)
+  * [U. of Birmingham, UK](http://thehackerwithin.github.io/UoB) (UK)
+
 
 Nascent chapters:
 
