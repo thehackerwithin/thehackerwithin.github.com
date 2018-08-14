@@ -26,6 +26,7 @@ Nascent chapters:
   * [U. Melbourne](http://thehackerwithin.github.io/melbourne) (Australia)
   * [Yale] (http://thehackerwithin.github.io/yale) (USA)
   * [Michigan State] (http://thehackerwithin.github.io/msu) (USA)
+  * [U. California, San Diego](http://www.thehackerwithin.org/ucsd/) (USA)
 
 
 
